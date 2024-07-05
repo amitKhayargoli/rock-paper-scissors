@@ -11,9 +11,11 @@ body{
     display: flex;
     flex-direction: column;
     height: 100vh;
-    justify-content: center;
+    /* justify-content: center; */
+    margin-top: -100px;
     align-items: center;
     column-gap: 40px;
+    transform: scale(0.7);
 }
 
 
